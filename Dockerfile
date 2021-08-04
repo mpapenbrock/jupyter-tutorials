@@ -1,5 +1,5 @@
 
-FROM andrewosh/binder-base
+FROM andrewosh/binder-base:1.0
 
 MAINTAINER Enric Tejedor Saavedra <enric.tejedor.saavedra@cern.ch>
 
